@@ -9,4 +9,8 @@ In the next updates, I will add Total Electron Content (TEC) data collection fro
 
 Thank you so much for taking your time. 
 
+Please Cite Unavco https://doi.org/10.1029/2012EO260006 
+
+Thanks to these generous people for providing tools and making modern research possible. 
+
 Don't forget to leave feedbacks!
